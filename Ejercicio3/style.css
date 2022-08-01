@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Poppins';
+    background-color: #FFFFFF;
+    height: 100vh;
+    background: #000000;
+}
+
+h2,
+h4 {
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+
+span {
+    font-size: 3em;
+    color: tomato;
+    display: flex;
+    flex-direction: column;
+}
+
+i {
+    text-align: center;
+}
+
+.link_container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
